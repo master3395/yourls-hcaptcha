@@ -106,6 +106,21 @@ Once installed and configured:
 - PHP 7.4 or higher
 - Active internet connection (for hCaptcha API calls)
 
+### Tested YOURLS Versions
+
+This plugin has been tested and verified to work with the following YOURLS versions:
+
+- ✅ **YOURLS 1.9.2** - Fully tested and working
+- ✅ **YOURLS 1.9.1** - Fully tested and working
+- ✅ **YOURLS 1.9.0** - Fully tested and working
+- ✅ **YOURLS 1.8.3** - Fully tested and working
+- ✅ **YOURLS 1.8.2** - Fully tested and working
+- ✅ **YOURLS 1.8.1** - Fully tested and working
+- ✅ **YOURLS 1.8.0** - Fully tested and working
+- ✅ **YOURLS 1.7.x** - Compatible (should work, but not extensively tested)
+
+> **Note:** While the plugin should work with YOURLS 1.7+, it has been primarily tested on YOURLS 1.8+ and 1.9+ versions. If you encounter any issues with older versions, please report them.
+
 ### Files Structure
 
 ```
