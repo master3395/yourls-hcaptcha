@@ -18,7 +18,7 @@
 
 This plugin adds hCaptcha protection to your YOURLS admin login page, helping prevent automated attacks and brute-force attempts. The plugin features improved error handling, graceful degradation when keys aren't configured, and a user-friendly admin interface.
 
-> **Note:** This is a fork of the original plugin by [RikoDEV](https://github.com/RikoDEV). The original repository can be found at [RikoDEV/yourls-hcaptcha](https://github.com/RikoDEV/yourls-hcaptcha).
+> **Note:** This is a fork of the original plugin by [RikoDEV](https://github.com/RikoDEV). The original repository is no longer available, but this fork includes improvements and continued maintenance.
 
 ## ✨ Features
 
@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Credits
 
-- **Original Author:** [RikoDEV](https://github.com/RikoDEV) - [Original Repository](https://github.com/RikoDEV/yourls-hcaptcha)
+- **Original Author:** [RikoDEV](https://github.com/RikoDEV) - Original plugin creator (repository no longer available)
 - **Fork Maintainer:** [master3395](https://github.com/master3395)
 
 ## 🔗 Links
