@@ -110,16 +110,14 @@ Once installed and configured:
 
 This plugin has been tested and verified to work with the following YOURLS versions:
 
-- ✅ **YOURLS 1.9.2** - Fully tested and working
-- ✅ **YOURLS 1.9.1** - Fully tested and working
-- ✅ **YOURLS 1.9.0** - Fully tested and working
-- ✅ **YOURLS 1.8.3** - Fully tested and working
-- ✅ **YOURLS 1.8.2** - Fully tested and working
-- ✅ **YOURLS 1.8.1** - Fully tested and working
-- ✅ **YOURLS 1.8.0** - Fully tested and working
+- ✅ **YOURLS 1.10.2** - Fully tested and working (primary test environment)
+- ✅ **YOURLS 1.9.2** - Compatible (should work, but not extensively tested)
+- ✅ **YOURLS 1.9.1** - Compatible (should work, but not extensively tested)
+- ✅ **YOURLS 1.9.0** - Compatible (should work, but not extensively tested)
+- ✅ **YOURLS 1.8.x** - Compatible (should work, but not extensively tested)
 - ✅ **YOURLS 1.7.x** - Compatible (should work, but not extensively tested)
 
-> **Note:** While the plugin should work with YOURLS 1.7+, it has been primarily tested on YOURLS 1.8+ and 1.9+ versions. If you encounter any issues with older versions, please report them.
+> **Note:** This plugin has been primarily tested on YOURLS 1.10.2. While it should work with YOURLS 1.7+ and newer versions, if you encounter any issues with other versions, please report them.
 
 ### Files Structure
 
